@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dcrame2
-- 👀 I’m interested in ... HTML/CSS, Java & JS but I want to learn more phyton & iOS development as well. 
-- 🌱 I’m currently learning ... advanced JS. I am interesting right now in creating well designed websites but will move into more backend development as I get progress. 
+- 👀 I’m interested in HTML/CSS, Java & JS but I want to learn more phyton & iOS development as well. 
+- 🌱 I’m currently learning advanced JS. Right now, I am interesting in creating well designed websites but will move into more backend development as I get progress. 
+- 🏋 In my free time I like to workout, read books & play video games. 
 
 
 <!---
