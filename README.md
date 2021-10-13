@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @dcrame2
-
-
 <h1 align="center">Hi 👋, I'm Dylan Cramer</h1>
 <h3 align="center">A passionate frontend developer from Chicago</h3>
 
