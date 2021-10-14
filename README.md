@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [dylcramer.com](dylcramer.com)
+- 👨‍💻 All of my projects are available at [dylancramer.epizy.com/](http://dylancramer.epizy.com/)
 
 - 📫 How to reach me **dcrame2@gmail.com**
-
-- 📄 Know about my experiences [dylcramer.com](dylcramer.com)
 
 - ⚡ Fun fact **I am an assistant wrestling coach**
 
