@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [dylancramer.epizy.com/](http://dylancramer.epizy.com/)
+- 👨‍💻 All of my projects are available at [dylancramer.netlify.app/](http://dylancramer.netlify.app/)
 
 - 📫 How to reach me **dcrame2@gmail.com**
 
