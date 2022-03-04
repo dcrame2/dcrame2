@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dylan Cramer</h1>
-<h3 align="center">A passionate frontend developer from Chicago</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Chicago, IL</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I love **JavaScript**
 
 - 👨‍💻 All of my projects are available at [dylancramer.netlify.app/](http://dylancramer.netlify.app/)
 
-- 📫 How to reach me **dcrame2@gmail.com**
+- 📫 You can reach me at **dcrame2@gmail.com**
 
 - ⚡ Fun fact **I am an assistant wrestling coach**
 
