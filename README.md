@@ -17,8 +17,11 @@
 
 <p float="left">
   <img width="400" alt="portfolio" src="https://user-images.githubusercontent.com/36011387/169723657-244a8ed7-9db4-4148-bf96-00ca8314b290.png">
+  <p>Portfolio Website</p>
   <img width="400" alt="gabanddyl" src="https://user-images.githubusercontent.com/36011387/169723509-f5aeca09-3653-42c2-9bc8-0bddc323c449.png">
+    <p>Gab & Dyl Website</p>
   <img width="400" alt="col" src="https://user-images.githubusercontent.com/36011387/169723651-ccdd11db-fca4-41fd-821d-44740db975bc.png">
+    <p>Chain O' Lakes</p>
   <img src="img3.png](https://user-images.githubusercontent.com/36011387/169723582-e8265f5f-1752-4ca9-9db3-577093f55034.png)" width="100" />
 </p>
 
