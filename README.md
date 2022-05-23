@@ -14,7 +14,16 @@
 <a href="https://linkedin.com/in/dylan-cramer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylancramer" height="30" width="40" /></a>
 </p>
 
-<img width="1279" alt="gabanddyl" src="https://user-images.githubusercontent.com/36011387/169723509-f5aeca09-3653-42c2-9bc8-0bddc323c449.png">
+
+![starsandstripes]()
+
+<p float="left">
+  <img width="1279" alt="gabanddyl" src="https://user-images.githubusercontent.com/36011387/169723509-f5aeca09-3653-42c2-9bc8-0bddc323c449.png">
+  <img src="https://user-images.githubusercontent.com/36011387/169723578-a5ecf9a9-d190-4087-ba8f-a214185eb690.png)" width="100" /> 
+  <img src="img3.png](https://user-images.githubusercontent.com/36011387/169723582-e8265f5f-1752-4ca9-9db3-577093f55034.png)" width="100" />
+</p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
