@@ -1,4 +1,4 @@
-
+<!-- 
 <img src="https://i.imgur.com/536JNd9.jpg" width="100%">
 
 <p align="center">
@@ -158,6 +158,7 @@ See [my website](https://shawncharles.com) for more information!
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
+ -->
 
 
 
@@ -168,9 +169,7 @@ See [my website](https://shawncharles.com) for more information!
 
 
 
-
-
-<!-- <h1 align="center">Hi 👋, I'm Dylan Cramer</h1>
+<h1 align="center">Hi 👋, I'm Dylan Cramer</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Chicago, IL</h3>
 
 - 🌱 I love **JavaScript**
@@ -192,15 +191,7 @@ See [my website](https://shawncharles.com) for more information!
 
 
 
-<p float="left">
-  <img width="300" alt="portfolio" src="https://user-images.githubusercontent.com/36011387/169723657-244a8ed7-9db4-4148-bf96-00ca8314b290.png">
-  <p>Portfolio Website</p>
-  <img width="300" alt="gabanddyl" src="https://user-images.githubusercontent.com/36011387/169723509-f5aeca09-3653-42c2-9bc8-0bddc323c449.png">
-    <p>Gab & Dyl Website</p>
-  <img width="300" alt="col" src="https://user-images.githubusercontent.com/36011387/169723651-ccdd11db-fca4-41fd-821d-44740db975bc.png">
-    <p>Chain O' Lakes</p>
-  <img src="img3.png](https://user-images.githubusercontent.com/36011387/169723582-e8265f5f-1752-4ca9-9db3-577093f55034.png)" width="100" />
-</p>
+
 
 
 
@@ -213,4 +204,3 @@ See [my website](https://shawncharles.com) for more information!
 
 
 
- -->
