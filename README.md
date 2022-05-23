@@ -15,9 +15,12 @@
 </p>
 
 <p float="left">
-  <img src="/col.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="/col.png" w<img width="1278" alt="col" src="https://user-images.githubusercontent.com/36011387/169723440-6b8fa74a-ba59-41a1-b70a-99755d685964.png">
+idth="100" />
+  <img src="/im![portfolio](https://user-images.githubusercontent.com/36011387/169723452-be46696d-ffeb-4c51-a166-2bbfa877d9f0.png)
+g2.png" width="100" /> 
+  <img src="/img3.png" <img width="1279" alt="gabanddyl" src="https://user-images.githubusercontent.com/36011387/169723457-a4cb3adb-db48-4454-ab62-e8bb7d43a7e6.png">
+width="100" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
