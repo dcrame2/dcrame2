@@ -29,10 +29,10 @@ See [my website](https://dylancramer.netlify.app) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Portfolio</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://dylancramer.netlify.app">
+            <img src="portfolio.png" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
