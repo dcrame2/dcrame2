@@ -5,7 +5,7 @@
   <a href="https://dylancramer.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
+  <a href="https://linkedin.com/in/dylan-cramer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
 <!--   <a href="https://shawncharles.com/twitter" target="_blank">
@@ -50,7 +50,7 @@ See [my website](https://dylancramer.netlify.app) for more information!
       <h3 align="center">Stars & Stripes Forever</h3>
         <br />
       <a target="_blank" href="https://carsandstripesforeverinc.com/">
-            <img src="starandstripes.png" width="100%"  alt="Stars & Stripes"/>
+            <img src="starsandstripes.png" width="100%"  alt="Stars & Stripes"/>
         </a>
         <br />
         <p align="center">
