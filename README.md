@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/536JNd9.jpg" width="100%">
+<img src="banner.png" width="100%">
 
 <p align="center">
   <a href="https://dylancramer.netlify.app" target="_blank">
