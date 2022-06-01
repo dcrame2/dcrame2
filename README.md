@@ -50,7 +50,7 @@ See [my website](https://dylancramer.netlify.app) for more information!
       <h3 align="center">Stars & Stripes Forever</h3>
         <br />
       <a target="_blank" href="https://carsandstripesforeverinc.com/">
-            <img src="starsandstripes.gif" width="100%"  alt="Stars & Stripes"/>
+            <img src="starsandstripes.png" width="100%"  alt="Stars & Stripes"/>
         </a>
         <br />
         <p align="center">
@@ -71,7 +71,7 @@ See [my website](https://dylancramer.netlify.app) for more information!
       <h3 align="center">Gab & Dyl</h3>
       <br />
         <a target="_blank" href="https://gabanddyl.netlify.app">
-          <img src="gabanddyl.gif" width="100%" alt="gab and dyl"/>
+          <img src="gabanddyl.png" width="100%" alt="gab and dyl"/>
         </a>
       <br />
         <p align="center">
@@ -88,7 +88,7 @@ See [my website](https://dylancramer.netlify.app) for more information!
       <h3 align="center">Chain O' Lakes Marina</h3>
         <br />
         <a target="_blank" href="https://chainolakesmarina.netlify.app/">
-          <img src="col.gif" width="100%" alt="Chain O Lakes Marina"/>
+          <img src="col.png" width="100%" alt="Chain O Lakes Marina"/>
         </a>
         <br />
         <p align="center">
