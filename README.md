@@ -1,5 +1,5 @@
 
-<img src="banner123.png" width="100%">
+<img src="banner.png" width="100%">
 
 <p align="center">
   <a href="https://dylancramer.netlify.app" target="_blank">
