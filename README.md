@@ -19,7 +19,7 @@
   </a> -->
 </p>
 
-I am a Front End Web Developer specializinng in JavaScript. I enjoy technology, whether it's working with teams to get products to market, crafting the user stories for each person, or writing code to solve problems. I love creating websites and applications using modern technologies, but I prefer building web applications that can quickly adapt to other frameworks and languages
+I am a Front End Web Developer specializinng in JavaScript. I enjoy technology, whether it's working with teams to get products to market, crafting the user stories for each person, or writing code to solve problems. I love creating websites and applications using modern technologies, but I prefer building web applications that can quickly adapt to other frameworks and languages.
 
 See [my website](https://dylancramer.netlify.app) for more information!
 
