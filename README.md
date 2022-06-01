@@ -38,10 +38,10 @@ See [my website](https://dylancramer.netlify.app) for more information!
         <p align="center">
           
   <a href="https://github.com/dcrame2/Portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=FFF&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://dylancramer.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3 & JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me</p>
@@ -59,7 +59,7 @@ See [my website](https://dylancramer.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> -->
   <a href="https://carsandstripesforeverinc.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>WordPress, HTML5, CSS3, JavaScript</strong> - eCommerce website for car wrapping business.</p>
@@ -76,10 +76,10 @@ See [my website](https://dylancramer.netlify.app) for more information!
       <br />
         <p align="center">
   <a href="https://github.com/dcrame2/gabanddyl" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=FFF&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://gabanddyl.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Website for me and my girlfriend to collect memories.</p>
