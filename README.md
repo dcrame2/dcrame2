@@ -62,7 +62,7 @@ See [my website](https://dylancramer.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>WordPress, HTML5, CSS3, JavaScript</strong> - eCommerce website for car wrapping business.</p>
+        <p><strong>GoDaddy, HTML5, CSS3, JavaScript</strong> - eCommerce website for car wrapping business.</p>
     </td>
   </tr>
   
