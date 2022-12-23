@@ -31,7 +31,7 @@ See [my website](https://dylancramer.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
-        <a target="_blank" href="https://dylancramer.netlify.app">
+        <a target="_blank" href="https://dylancramer.dev">
             <img src="portfolio.gif" width="100%" alt="Portfolio"/>
         </a>
         <br />
@@ -40,7 +40,7 @@ See [my website](https://dylancramer.netlify.app) for more information!
   <a href="https://github.com/dcrame2/Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=FFF&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://dylancramer.netlify.app" target="_blank">
+  <a href="https://dylancramer.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -71,7 +71,7 @@ See [my website](https://dylancramer.netlify.app) for more information!
       <h3 align="center">Digital Delight</h3>
       <br />
         <a target="_blank" href="https://thedigitaldelight.com">
-          <img src="digitaldelightpic.png" width="100%" alt="digital delight"/>
+          <img src="digitaldelightimg.png" width="100%" alt="digital delight"/>
         </a>
       <br />
         <p align="center">
