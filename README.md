@@ -2,7 +2,7 @@
 <img src="banner.png" width="100%">
 
 <p align="center">
-  <a href="https://dylancramer.netlify.app" target="_blank">
+  <a href="https://dylancramer.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/dylan-cramer" target="_blank">
@@ -21,7 +21,7 @@
 
 I am a Front End Web Developer specializinng in JavaScript. I enjoy technology, whether it's working with teams to get products to market, crafting the user stories for each person, or writing code to solve problems. I love creating websites and applications using modern technologies, but I prefer building web applications that can quickly adapt to other frameworks and languages.
 
-See [my website](https://dylancramer.netlify.app) for more information!
+See [my website](https://dylancramer.dev for more information!
 
 
 <h1 align="center">Projects</h1>
