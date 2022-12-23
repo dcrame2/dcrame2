@@ -71,18 +71,18 @@ See [my website](https://dylancramer.netlify.app) for more information!
       <h3 align="center">Digital Delight</h3>
       <br />
         <a target="_blank" href="https://thedigitaldelight.com">
-          <img src="gabanddyl.png" width="100%" alt="digital delight"/>
+          <img src="digitaldelightpic.png" width="100%" alt="digital delight"/>
         </a>
       <br />
         <p align="center">
   <a href="https://github.com/dcrame2/dj-website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=FFF&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://gabanddyl.netlify.app/" target="_blank">
+  <a href="https://thedigitaldelight.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Website for me and my girlfriend to collect memories.</p>
+        <p><strong>React.js, Framer Motion, & Styled Component</strong> - Website for Digital Delight company</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Chain O' Lakes Marina</h3>
