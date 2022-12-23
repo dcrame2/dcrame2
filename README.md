@@ -68,14 +68,14 @@ See [my website](https://dylancramer.netlify.app) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Gab & Dyl</h3>
+      <h3 align="center">Digital Delight</h3>
       <br />
-        <a target="_blank" href="https://gabanddyl.netlify.app">
-          <img src="gabanddyl.png" width="100%" alt="gab and dyl"/>
+        <a target="_blank" href="https://thedigitaldelight.com">
+          <img src="gabanddyl.png" width="100%" alt="digital delight"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/dcrame2/gabanddyl" target="_blank">
+  <a href="https://github.com/dcrame2/dj-website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=FFF&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://gabanddyl.netlify.app/" target="_blank">
