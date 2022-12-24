@@ -142,7 +142,7 @@ See [my website](https://dylancramer.dev for more information!
 
 
 <p align="center">
-  <a href="https://dylancramer.netlify.app" target="_blank">
+  <a href="https://dylancramer.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/dylan-cramer" target="_blank">
