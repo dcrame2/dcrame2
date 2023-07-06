@@ -1,4 +1,4 @@
-<!-- <img src="banner.png" width="100%">
+<img src="banner.png" width="100%">
 
 <p align="center">
   <a href="https://dylancramer.dev" target="_blank">
@@ -120,7 +120,7 @@ See [my website](https://dylancramer.dev) for more information!
   <a href="https://linkedin.com/in/dylan-cramer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-</p> -->
+</p>
 
 
 
