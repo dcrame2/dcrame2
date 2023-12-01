@@ -14,8 +14,8 @@ I am a Front End Web Developer specializinng in JavaScript. I enjoy technology, 
 See [my website](https://dylancramer.dev) for more information!
 
 
-// <h1 align="center">Projects</h1>
-// <table bordercolor="#66b2b2">
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
