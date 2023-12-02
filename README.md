@@ -1,5 +1,6 @@
-<img src="logo_no_bg.png" width="50%">
-
+<p align="center">
+<img src="logo_no_bg.png" width="30%" >
+</p>
 <p align="center">
   <a href="https://dylancramer.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=react&logo-color=white"/>
