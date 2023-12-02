@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%">
+<img src="logo_no_bg.png" width="100%">
 
 <p align="center">
   <a href="https://dylancramer.dev" target="_blank">
