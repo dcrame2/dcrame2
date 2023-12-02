@@ -22,33 +22,33 @@ See [my website](https://dylancramer.dev) for more information!
       <h3 align="center">Portfolio</h3>
         <br />
         <a target="_blank" href="https://dylancramer.dev">
-            <img src="portfolio.gif" width="100%" alt="Portfolio"/>
+            <img src="dylancramer.png" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/dcrame2/Portfolio" target="_blank">
+  <a href="https://github.com/dcrame2/dc-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=FFF&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://dylancramer.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3 & JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me</p>
+        <p><strong>Next/React.js, Styled Components, Framer Motion</strong> - Portfolio Site including links to my projects and ways to get in contact</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Stars & Stripes Forever</h3>
+      <h3 align="center">Chicago Living Group</h3>
         <br />
-      <a target="_blank" href="https://carsandstripesforeverinc.com/">
-            <img src="starsandstripes.png" width="100%"  alt="Stars & Stripes"/>
+      <a target="_blank" href="https://chicagolivinggroup.com/">
+            <img src="chicago_living.png" width="100%"  alt="Chicago Living Group"/>
         </a>
         <br />
         <p align="center">
-  <a href="https://carsandstripesforeverinc.com/" target="_blank">
+  <a href="https://chicagolivinggroup.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>GoDaddy, HTML5, CSS3, JavaScript</strong> - eCommerce website for car wrapping business.</p>
+        <p><strong>Next/React.js, Strapi Headless CMS, Styled Components, Framer Motion, PostgreSQL DB, Cloudinary CDN</strong> - eCommerce website for car wrapping business.</p>
     </td>
   </tr>
   
@@ -71,22 +71,22 @@ See [my website](https://dylancramer.dev) for more information!
         <p><strong>React.js, Framer Motion, & Styled Component</strong> - Website for Digital Delight company</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Chain O' Lakes Marina</h3>
+      <h3 align="center">Moulis Financial</h3>
         <br />
-        <a target="_blank" href="https://chainolakesmarina.netlify.app/">
-          <img src="col.png" width="100%" alt="Chain O Lakes Marina"/>
+        <a target="_blank" href="https://moulisfinancial.com/">
+          <img src="moulisfinancial.png" width="100%" alt="Moulis Financial"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/dcrame2/chain-o-lakes" target="_blank">
+  <a href="https://github.com/dcrame2/insurance-agent" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=FFF&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://chainolakesmarina.netlify.app" target="_blank">
+  <a href="https://moulisfinancial.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & BootStrap</strong> - Marina website mock up I made for my friends family business.</p>
+        <p><strong>React.js, Framer Motion, & Styled Component</strong> - Website for Moulis Financial website/p>
     </td>
   </tr>
 </table>
@@ -96,11 +96,11 @@ See [my website](https://dylancramer.dev) for more information!
 
 
 <p align="center">
+   <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=NEXT.JS&color=3c7f5d&style=plastic&logo=next"/>
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
