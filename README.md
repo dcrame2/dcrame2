@@ -14,7 +14,7 @@ I am a Full Stack Web Developer specializing in JavaScript. Creative, detail-ori
 Proficient technologies include: JavaScript, React.js, Node.js, Next.js, PHP, Java, Strapi, WordPress, Storybook, Styled Components, HTML, CSS/SASS/SCSS,  RESTful API, Cloudinary, PostgreSQL, MySQL, SQL.
 
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Some Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
