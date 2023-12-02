@@ -1,6 +1,4 @@
-<p align="center">
-<img src="logo_no_bg.png" width="30%" >
-</p>
+
 
 
 I am a Full Stack Web Developer specializing in JavaScript. Creative, detail-oriented Web Developer who writes readable code. Proven track record of implementing successful full-stack applications. Strong communicator with the ability to work effectively on diverse teams.
