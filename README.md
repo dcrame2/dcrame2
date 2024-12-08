@@ -1,4 +1,4 @@
-<img width="1722" alt="timeline-that" src="https://github.com/user-attachments/assets/02ed9bdd-14d9-4f1b-a75c-45b9f0b2632d">
+
 
 
 I am a Full Stack Web Developer specializing in JavaScript. Creative, detail-oriented Web Developer who writes readable code. Proven track record of implementing successful full-stack applications. Strong communicator with the ability to work effectively on diverse teams.
@@ -44,7 +44,7 @@ Proficient technologies include: JavaScript, React.js, Node.js, Next.js, PHP, Ja
         <br />
         <p align="center">
   <a href="[(https://timelinethat.com/)](https://timelinethat.com/)" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
+    <img alt="timeline-that" src="https://github.com/user-attachments/assets/02ed9bdd-14d9-4f1b-a75c-45b9f0b2632d">
   </a>
       </p>
         <p><strong>Next/React.js, TailwindCSS, Framer Motion, MongoDB, Cloudinary CDN, Stripe, Mandrill</strong> - Creating Timelines for anyone</p>
