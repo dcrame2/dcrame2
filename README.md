@@ -1,4 +1,4 @@
-
+<img width="1722" alt="timeline-that" src="https://github.com/user-attachments/assets/02ed9bdd-14d9-4f1b-a75c-45b9f0b2632d">
 
 
 I am a Full Stack Web Developer specializing in JavaScript. Creative, detail-oriented Web Developer who writes readable code. Proven track record of implementing successful full-stack applications. Strong communicator with the ability to work effectively on diverse teams.
@@ -36,18 +36,18 @@ Proficient technologies include: JavaScript, React.js, Node.js, Next.js, PHP, Ja
         <p><strong>Next/React.js, Styled Components, Framer Motion</strong> - Portfolio Site including links to my projects and ways to get in contact</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Chicago Living Group</h3>
+      <h3 align="center">Timeline That</h3>
         <br />
-      <a target="_blank" href="https://chicagolivinggroup.com/">
-            <img src="chicago_living.png" width="100%"  alt="Chicago Living Group"/>
+      <a target="_blank" href="https://timelinethat.com/">
+            <img src="timeline_that.png" width="100%"  alt="Timeline That"/>
         </a>
         <br />
         <p align="center">
-  <a href="https://chicagolivinggroup.com/" target="_blank">
+  <a href="[(https://timelinethat.com/)](https://timelinethat.com/)" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Next/React.js, Strapi Headless CMS, Styled Components, Framer Motion, PostgreSQL DB, Cloudinary CDN</strong> - eCommerce website for car wrapping business.</p>
+        <p><strong>Next/React.js, TailwindCSS, Framer Motion, MongoDB, Cloudinary CDN, Stripe, Mandrill</strong> - Creating Timelines for anyone</p>
     </td>
   </tr>
   
