@@ -39,12 +39,12 @@ Proficient technologies include: JavaScript, React.js, Node.js, Next.js, PHP, Ja
       <h3 align="center">Timeline That</h3>
         <br />
       <a target="_blank" href="https://timelinethat.com/">
-            <img src="timeline_that.png" width="100%"  alt="Timeline That"/>
+            <img alt="timeline-that" src="https://github.com/user-attachments/assets/02ed9bdd-14d9-4f1b-a75c-45b9f0b2632d">
         </a>
         <br />
         <p align="center">
-  <a href="[(https://timelinethat.com/)](https://timelinethat.com/)" target="_blank">
-    <img alt="timeline-that" src="https://github.com/user-attachments/assets/02ed9bdd-14d9-4f1b-a75c-45b9f0b2632d">
+  <a href="https://timelinethat.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF0000&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Next/React.js, TailwindCSS, Framer Motion, MongoDB, Cloudinary CDN, Stripe, Mandrill</strong> - Creating Timelines for anyone</p>
