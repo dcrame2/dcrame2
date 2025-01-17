@@ -1,7 +1,7 @@
 
 
 
-I am a Full Stack Web Developer specializing in JavaScript. Creative, detail-oriented Web Developer who writes readable code. Proven track record of implementing successful full-stack applications. Strong communicator with the ability to work effectively on diverse teams.
+I am a Software Engineer specializing in JavaScript. Creative, detail-oriented engineer who writes readable code. Proven track record of implementing successful full-stack applications. Strong communicator with the ability to work effectively on diverse teams.
 
 Proficient technologies include: JavaScript, React.js, Node.js, Next.js, PHP, Java, Strapi, WordPress, Storybook, Styled Components, HTML, CSS/SASS/SCSS,  RESTful API, Cloudinary, PostgreSQL, MySQL, SQL.
 <p align="center">
